@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://6saoxing.github.io</id>
     <title>Gridea</title>
-    <updated>2020-03-21T12:11:33.271Z</updated>
+    <updated>2020-03-21T12:15:09.368Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://6saoxing.github.io"/>
     <link rel="self" href="https://6saoxing.github.io/atom.xml"/>
@@ -11,16 +11,7 @@
     <icon>https://6saoxing.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
     <entry>
-        <title type="html"><![CDATA[##my first blog!]]></title>
-        <id>https://6saoxing.github.io/post/my-first-blog/</id>
-        <link href="https://6saoxing.github.io/post/my-first-blog/">
-        </link>
-        <updated>2020-03-10T00:22:11.000Z</updated>
-        <content type="html"><![CDATA[<p>hi</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[关于]]></title>
+        <title type="html"><![CDATA[欢迎来到sao_xing的小破站！！]]></title>
         <id>https://6saoxing.github.io/post/about/</id>
         <link href="https://6saoxing.github.io/post/about/">
         </link>
@@ -30,7 +21,7 @@
 </blockquote>
 <p>##🏠 关于本站:一个破博客</p>
 <h2 id="博主是谁sao_xing">👨‍💻 博主是谁:sao_xing</h2>
-<h2 id="兴趣爱好swxf">⛹ 兴趣爱好:swxf</h2>
+<h2 id="兴趣爱好守望先锋">⛹ 兴趣爱好:守望先锋</h2>
 <h2 id="联系我呀qq3171574050">📬 联系我呀:QQ3171574050</h2>
 ]]></content>
     </entry>
